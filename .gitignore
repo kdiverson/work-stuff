@@ -10,3 +10,6 @@
 *.lai
 *.la
 *.a
+
+# lame mac files
+.DS_Store
